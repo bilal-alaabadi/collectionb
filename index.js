@@ -13,8 +13,8 @@ app.use(cookieParser());
 
 // ضع كل الدومينات المسموح بها هنا
 const allowedOrigins = [
-  "https://collectionf.vercel.app",
-  "https://www.collectionf.vercel.app",
+  "https://rfcollection999.com",
+  "https://www.rfcollection999.com",
   // للتطوير المحلي (اختياري):
   "http://localhost:5173",
   "http://localhost:3000",
